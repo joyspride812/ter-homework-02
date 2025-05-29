@@ -56,6 +56,14 @@
 - скриншот ЛК Yandex Cloud с созданной ВМ, где видно внешний ip-адрес;
 - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
 - ответы на вопросы.
+Ответ:
+1)  
+![image](https://github.com/user-attachments/assets/f69fcb59-f383-4c20-8f91-4fc215bd5dec)
+  
+2)  
+![image](https://github.com/user-attachments/assets/0d9e35ef-c8ea-4fb9-ba2c-a949801e60a2)
+  
+4)
 
 
 ### Задание 2
