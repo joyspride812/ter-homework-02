@@ -36,7 +36,7 @@
 ![image](https://github.com/user-attachments/assets/c43dbdf5-c747-4c74-ba7c-844e30da89f2)  
 2) Исчерпан лимит облачных сетей в yandex cloud (лимит -2 )  
 ![image](https://github.com/user-attachments/assets/8622cef6-a593-45c4-8c3b-3d842259d8b3)  
-3)aasdas  
+3)platform_id - (Optional) The type of virtual machine to create. The default is 'standard-v1'. В коде указан platform_id = "standarT-v4" -такой платформы не существует. Мне подойдёт Intel Cascade Lake - standard-v3
 ![image](https://github.com/user-attachments/assets/8285a4b6-92cd-446b-b94a-5edaf54fe9aa)   
   
 
