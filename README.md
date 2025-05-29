@@ -37,7 +37,10 @@
 2) Исчерпан лимит облачных сетей в yandex cloud (лимит -2 )  
 ![image](https://github.com/user-attachments/assets/8622cef6-a593-45c4-8c3b-3d842259d8b3)  
 3)platform_id - (Optional) The type of virtual machine to create. The default is 'standard-v1'. В коде указан platform_id = "standarT-v4" -такой платформы не существует. Мне подойдёт Intel Cascade Lake - standard-v3
-![image](https://github.com/user-attachments/assets/8285a4b6-92cd-446b-b94a-5edaf54fe9aa)   
+![image](https://github.com/user-attachments/assets/8285a4b6-92cd-446b-b94a-5edaf54fe9aa) 
+4)standard-v3 не поддерживает core_fraction = 5 , мне подоёдёт core_fraction = 20  
+![image](https://github.com/user-attachments/assets/a07d2110-741f-4893-b532-f328830094ba)
+
   
 
 
