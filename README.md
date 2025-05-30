@@ -1,6 +1,4 @@
-```
-qweqweqeqweq
-```
+
 
 
 # Домашнее задание к занятию «Основы Terraform. Yandex Cloud» Моисеенко А.Н.
